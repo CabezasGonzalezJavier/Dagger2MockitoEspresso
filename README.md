@@ -2,7 +2,7 @@
 Dagger2 Mockito Espresso
 
 # About
-  Dependency Injection with Dagger 2 and Retrofit with scope on Android using MVP and Espresso (Android UI tests).
+  Dependency Injection with Dagger 2 with a simple mock using Mockito and Espresso (Android UI tests).
   
   Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
   Libraries
